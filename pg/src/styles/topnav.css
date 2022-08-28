@@ -1,0 +1,23 @@
+.topnav{
+    font-family:Inter, Avenir;
+    margin:0;
+    padding:0.5rem;
+    text-align:left;
+    background-color: rgb(74, 126, 128);
+    overflow:hidden;
+    height:auto;
+    width: auto;
+
+}
+
+.leftnav{
+    float:right;
+    width: auto;
+    
+}
+
+.topnav button{
+    background-color: rgb(74, 126, 128);
+}
+
+/* media */
